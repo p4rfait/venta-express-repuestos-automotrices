@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302327872914",
+    "project_id": "venta-express-repuestos",
+    "storage_bucket": "venta-express-repuestos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302327872914:android:496a569ef8e4b10233154b",
+        "android_client_info": {
+          "package_name": "com.p4rfait.ventaexpressrepuestosautomotrices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJKOHr0CBN0dpKYJwq0NA_14NUbjjD9zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

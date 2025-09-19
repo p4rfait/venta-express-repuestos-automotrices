@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/productsFragment"
+        android:icon="@drawable/baseline_menu_book_24"
+        android:title="Productos" />
+    <item
+        android:id="@+id/customersFragment"
+        android:icon="@drawable/baseline_handshake_24"
+        android:title="Clientes" />
+    <item
+        android:id="@+id/sellsFragment"
+        android:icon="@drawable/baseline_sell_24"
+        android:title="Ventas" />
+</menu>
